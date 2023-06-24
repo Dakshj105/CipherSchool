@@ -18,3 +18,4 @@ li = list(map(int, input().split()))
 li = Segregate0_1_2(li)
 for i in li:
     print(i, end = " ")
+print()
